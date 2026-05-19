@@ -1,2 +1,2 @@
-# SC_302_Documentaci-n
+# SC-302-Documentación
 Este es mi repositorio
